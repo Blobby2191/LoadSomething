@@ -3,7 +3,7 @@ function wow() {
             let x = document.getElementById("code").value;
             switch(x) {
                 case "newsof7s":
-                    text = "<h3> Merry Christmas </h3> <p> Christmas Break has just started! There will be no school until the 6th of January.</p>";
+                    text = "<h3> Merry Christmas </h3> <p> Christmas Break has just started! There will be no school until the 6th of January.</p> <b> Upcoming tests: Test V, Test VI (Semester Exam) / Special days: Back to School (6 Jan) </b>";
                     break;
                 case "kittenexplosion":
                     text= "<a href='https://teams.live.com/meet/9331670844949?p=nhZ1NcPOYaQ5ZUadrM'> Click here </a>" ;
