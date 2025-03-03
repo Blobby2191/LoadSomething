@@ -11,7 +11,7 @@ function wow() {
                 case "watchmebackflip":
                         window.location.href = "videohome.html";
                         break;
-                case null:
+                case "":
                     text = "<p> Please enter a code. </p>"
                     break;
                 default:
