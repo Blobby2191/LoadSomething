@@ -20,3 +20,22 @@ function wow() {
 }     document.getElementById("start").innerHTML = text;
 }
 
+function video() {
+        let text = "";
+        let x = document.getElementById("code").value;
+        switch(x.charAt(0)) {
+                case "0":
+                        text = ".txt";
+                        break;
+                case "1":
+                        text = ".jpg";
+                        break;
+                case "2":
+                        text = ".mp4";
+                        break;
+                case "3":
+                        text =  ".html";
+                        break;
+        }
+        window.location.replace("video/" + x + text);
+}

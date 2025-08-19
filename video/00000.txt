@@ -1,10 +1,11 @@
 Video Code
 
 First Digit: Type
-0 - Other
+0 - Text
 1 - Photo
 2 - Video
 3 - Website
+4 - Other
 
 Second Digit: Genre
 0 - Other
