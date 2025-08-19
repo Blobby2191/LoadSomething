@@ -1,0 +1,26 @@
+Video Code
+
+First Digit: Type
+0 - Other
+1 - Photo
+2 - Video
+3 - Website
+
+Second Digit: Genre
+0 - Other
+1 - Dubs
+2 - Health
+3 - Medicine
+4 - Caseoh
+5 - Piano & Parenting
+
+Third Digit: Location
+0 - Other
+1 - Over Internet
+2 - Shone's House
+3 - Chris's House
+4 - Alfred's House
+5 - Marc's House
+
+Next Digits: Instance
+0 - Not counted
