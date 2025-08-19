@@ -3,7 +3,7 @@ function wow() {
             let x = document.getElementById("code").value;
             switch(x) {
                 case "newsof7s":
-                        text = "<h3> Its March Break Bro </h3>";
+                        text = "<h3> Happy Summer! Ready for Grade 8? </h3>";
                         break;
                 case "kittenexplosion":
                         text= "<iframe height='576' width='864' src='https://forms.gle/LuVAdvBKgkWUbNau9'> </iframe>" ;
@@ -19,3 +19,4 @@ function wow() {
                         break;
 }     document.getElementById("start").innerHTML = text;
 }
+
