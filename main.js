@@ -2,10 +2,7 @@ function wow() {
         let text;
             let x = document.getElementById("code").value;
             switch(x) {
-                case "newsof7s":
-                        text = "<h3> Happy Summer! Ready for Grade 8? </h3>";
-                        break;
-                case "kittenexplosion":
+                case "fostandlound":
                         text= "<iframe height='576' width='864' src='https://forms.gle/LuVAdvBKgkWUbNau9'> </iframe>" ;
                         break;
                 case "watchmebackflip":
